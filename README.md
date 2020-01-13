@@ -5,4 +5,6 @@ It is an arcade shooter in which the player must control both sides of the board
 
 There are 5 levels of increasing difficulty. There is an endless mode and a duel mode. Each level can be played with 2 people on the same screen.
 
+I have uploaded the code to show my work so far, but I have excluded the rest of the Unity Project to protect my work as it is still unreleased.
+
 ![Screenshot](screenshot.png)
